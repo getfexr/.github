@@ -1,4 +1,6 @@
-<img src="https://getfexr.com/img/web3Auth.svg">
+<div align="center">
+  <img src="https://getfexr.com/img/web3Auth.svg" width="512">
+</div>
 
 *Let winters and rains in crypto not take your trust away from the future of payments.*
 <br/><br/>
